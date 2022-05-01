@@ -5,4 +5,4 @@
 5. `package.json`:
 	- "homepage": "https://Vincenzofdg.github.io/Planner",
 	- "predeploy": "npm run build",
-  - "deploy": "gh-pages -d build",
+	- "deploy": "gh-pages -d build",
