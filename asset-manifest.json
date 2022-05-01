@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vincenzofdg/Planner/static/css/main.e6c13ad2.css",
+    "main.js": "/Vincenzofdg/Planner/static/js/main.7d997f1b.js",
+    "static/media/Calendar.png": "/Vincenzofdg/Planner/static/media/Calendar.ecb95e6e76b4266fe4af.png",
+    "index.html": "/Vincenzofdg/Planner/index.html",
+    "main.e6c13ad2.css.map": "/Vincenzofdg/Planner/static/css/main.e6c13ad2.css.map",
+    "main.7d997f1b.js.map": "/Vincenzofdg/Planner/static/js/main.7d997f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d997f1b.js"
+  ]
+}
