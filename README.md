@@ -4,6 +4,5 @@
 4. npm run build
 5. `package.json`:
 	- "homepage": "https://Vincenzofdg.github.io/Planner",
-	- "post": "npm run build && ./node_modules/.bin/gh-pages -d build",
-
--------------
+	- "predeploy": "npm run build",
+  - "deploy": "gh-pages -d build",
